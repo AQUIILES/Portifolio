@@ -1,0 +1,36 @@
+Boa professor, fiz o complemento do website 
+com o formulário pela questão dos requisitos que o senhor pediu.
+
+A sessão de envio de mensagem está funcionando
+ através do formsubmit, inclusive na pasta tem uma
+ gravacao de tela do meu computador onde mostra
+ tudo funcionando com a ativação do formsubmit.
+
+Na "linha 277" do HTML o senhor altera o email que 
+deseja que as mensagens enviadas do site cheguem, 
+recomendo quando for fazer um envio de uma mensagem
+do site, que utilize um email diferente do cadastrado na linha 277 do HTML,
+dessa maneira conseguirá ver o funcionamento do "auto response".
+Nesse caso, o senhor abre os dois emails que utilizou
+para fazer a operação, e verifica as mensagens.
+
+É possivel também que o formsubmit solicite uma nova confirmação 
+quando o senhor colocar outro email na linha 277, é só o senhor 
+ativar o formsubmit abrindo o email que cadastrou e confirmar.
+
+Eu não subir no git pois ainda nao coloquei a responsividade, 
+e quero continuar implementando outras coisas antes de subir no git, pra deixar bem top. 
+Vou deixar disponível no google drive.
+
+Obrigado, e até o Next Project!
+
+
+
+
+
+
+
+
+
+
+
